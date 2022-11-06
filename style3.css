@@ -1,0 +1,14 @@
+body{
+background: url(imagenes/bajistas.jpg);
+background-size: cover;
+
+}
+
+li{
+    color: red;
+}
+
+strong{
+text-transform: uppercase;
+    color: grey;
+}
